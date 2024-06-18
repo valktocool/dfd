@@ -1,0 +1,1 @@
+chrome-extension://panammoooggmlehahpcjckcncfeffcoi/js/contentscripts/incognito.js
