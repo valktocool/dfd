@@ -1,0 +1,1 @@
+chrome-extension://panammoooggmlehahpcjckcncfeffcoi/ublock/js/contentscript.js
